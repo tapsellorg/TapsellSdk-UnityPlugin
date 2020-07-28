@@ -1,5 +1,5 @@
 {
-  "name": "ir.mohsenafshar.android_plugin",
+  "name": "ir.tapsell.TapsellSdk-UnityPlugin",
   "version": "1.0.0",
   "displayName": "Tapsell Plugin For Android",
   "description": "This is a plugin for tapsell",
@@ -21,7 +21,7 @@
   },
   "repository": {
 		"type": "git",
-		"url": "https://github.com/mohsenafshar/UnityPackageDependency.git",
+		"url": "https://github.com/tapsellorg/UnityPackageDependency.git",
 		"revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
 	},
   "scopedRegistries": [
