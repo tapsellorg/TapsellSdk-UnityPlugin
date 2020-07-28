@@ -20,10 +20,10 @@
     "url": "https://www.tapsell.ir"
   },
   "repository": {
-		"type": "git",
-		"url": "https://https://github.com/tapsellorg/android-plugin.git",
-		"revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
-	},
+    "type": "git",
+    "url": "https://https://github.com/tapsellorg/tapsell.unity.android-plugin.git",
+    "revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
+  },
   "scopedRegistries": [
     {
       "name": "Google",
