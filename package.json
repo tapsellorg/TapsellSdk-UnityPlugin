@@ -1,0 +1,24 @@
+{
+  "name": "ir.mohsenafshar.android_plugin",
+  "version": "1.0.0",
+  "displayName": "Tapsell Plugin For Android",
+  "description": "This is a plugin for tapsell",
+  "unity": "2019.4",
+  "unityRelease": "4f1",
+  "dependencies": {},
+  "keywords": [
+    "Tapsell",
+    "Android",
+    "Plugin"
+  ],
+  "author": {
+    "name": "TapsellAd",
+    "email": "technical@tapsell.ir",
+    "url": "https://www.tapsell.ir"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/mohsenafshar/UnityPackageDependency.git",
+		"revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
+	}
+}
