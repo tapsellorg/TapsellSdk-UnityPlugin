@@ -1,5 +1,5 @@
 {
-  "name": "ir.tapsellorg.TapsellSdk-UnityPlugin",
+  "name": "TapsellSdk-UnityPlugin",
   "version": "1.0.0",
   "displayName": "Tapsell Plugin For Android",
   "description": "This is a unity plugin for showing tapsell ads",
