@@ -1,5 +1,5 @@
 {
-  "name": "TapsellSdk-UnityPlugin",
+  "name": "ir.tapsell.unity.android-plugin",
   "version": "1.0.0",
   "displayName": "Tapsell Plugin For Android",
   "description": "This is a unity plugin for showing tapsell ads",
@@ -21,7 +21,7 @@
   },
   "repository": {
 		"type": "git",
-		"url": "https://https://github.com/tapsellorg/TapsellSdk-UnityPlugin.git",
+		"url": "https://https://github.com/tapsellorg/android-plugin.git",
 		"revision": "679387cb1fa822190b530bdbb8ea0945f508b5f6"
 	},
   "scopedRegistries": [
